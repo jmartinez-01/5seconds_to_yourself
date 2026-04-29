@@ -1,0 +1,56 @@
+[
+  {
+    "id": "noa",
+    "name": "Noa",
+    "role": "Guía de Paz Mental",
+    "type": "real",
+    "description": "Noa es experta en meditación y te ayudará a encontrar tu centro en momentos de estrés.",
+    "avatarClass": "noa",
+    "tags": ["Mindfulness", "Ansiedad"]
+  },
+  {
+    "id": "pablo",
+    "name": "Pablo",
+    "role": "IA Analítica",
+    "type": "ia",
+    "description": "Pablo es una IA entrenada para ayudarte a organizar tus pensamientos y prioridades.",
+    "avatarClass": "pab",
+    "tags": ["Productividad", "Claridad"]
+  },
+  {
+    "id": "sol",
+    "name": "Sol",
+    "role": "Mentora Híbrida",
+    "type": "hybrid",
+    "description": "Una combinación perfecta entre empatía humana y conocimientos estructurados por IA.",
+    "avatarClass": "sol",
+    "tags": ["Equilibrio", "Energía"]
+  },
+  {
+    "id": "rebeca",
+    "name": "Rebeca",
+    "role": "Psicóloga",
+    "type": "real",
+    "description": "Con más de 10 años de experiencia, Rebeca te guía en el autoconocimiento.",
+    "avatarClass": "reb",
+    "tags": ["Terapia", "Emociones"]
+  },
+  {
+    "id": "javier",
+    "name": "Javier",
+    "role": "Coach de Vida",
+    "type": "ia",
+    "description": "IA especializada en motivación y logro de metas personales y profesionales.",
+    "avatarClass": "jav",
+    "tags": ["Metas", "Motivación"]
+  },
+  {
+    "id": "marta",
+    "name": "Marta",
+    "role": "Especialista en Burnout",
+    "type": "real",
+    "description": "Si sientes agotamiento, Marta te acompañará paso a paso para recuperar tu vitalidad.",
+    "avatarClass": "mar",
+    "tags": ["Burnout", "Descanso"]
+  }
+]
